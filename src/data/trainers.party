@@ -83,7 +83,7 @@ Double Battle: No
 
 === TRAINER_SAWYER_1 ===
 Name: Alex
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -191,7 +191,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GABRIELLE_1 ===
 Name: Agnes
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
@@ -237,7 +237,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MARCEL ===
 Name: Alfred
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -255,7 +255,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_ALBERTO ===
 Name: Andreas
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -272,7 +272,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ED ===
 Name: Fabian
-Class: Collector
+Class: Sammler
 Pic: Collector
 Gender: Male
 Music: Suspicious
@@ -302,7 +302,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DECLAN ===
 Name: Anton
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -508,7 +508,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FREDRICK ===
 Name: August
-Class: Expert
+Class: Experte
 Pic: Expert M
 Gender: Male
 Music: Intense
@@ -525,7 +525,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MATT ===
 Name: Wolfgang
-Class: Aqua Admin
+Class: Aqua Vors.
 Pic: Aqua Admin M
 Gender: Male
 Music: Aqua
@@ -543,7 +543,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_ZANDER ===
 Name: Bernd
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -556,7 +556,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SHELLY_WEATHER_INSTITUTE ===
 Name: Kordula
-Class: Aqua Admin
+Class: Aqua Vors.
 Pic: Aqua Admin F
 Gender: Female
 Music: Aqua
@@ -573,7 +573,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_SHELLY_SEAFLOOR_CAVERN ===
 Name: Kordula
-Class: Aqua Admin
+Class: Aqua Vors.
 Pic: Aqua Admin F
 Gender: Female
 Music: Aqua
@@ -590,7 +590,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_ARCHIE ===
 Name: Adrian
-Class: Aqua Leader
+Class: Aqua Boss
 Pic: Aqua Leader Archie
 Gender: Male
 Music: Aqua
@@ -612,7 +612,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_LEAH ===
 Name: Kerstin
-Class: Hex Maniac
+Class: Hexe
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
@@ -663,7 +663,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FELIX ===
 Name: Felix
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -781,7 +781,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_DUSTY_1 ===
 Name: Rüdiger
-Class: Ruin Maniac
+Class: Ruinen Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
@@ -798,7 +798,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_CHIP ===
 Name: Ruprecht
-Class: Ruin Maniac
+Class: Ruinen Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
@@ -831,7 +831,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_FOSTER ===
 Name: Ruben
-Class: Ruin Maniac
+Class: Ruinen Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
@@ -856,7 +856,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_DUSTY_2 ===
 Name: Rüdiger
-Class: Ruin Maniac
+Class: Ruinen Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
@@ -873,7 +873,7 @@ IVs: 7 HP / 7 Atk / 7 Def / 7 SpA / 7 SpD / 7 Spe
 
 === TRAINER_DUSTY_3 ===
 Name: Rüdiger
-Class: Ruin Maniac
+Class: Ruinen Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
@@ -890,7 +890,7 @@ IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
 
 === TRAINER_DUSTY_4 ===
 Name: Rüdiger
-Class: Ruin Maniac
+Class: Ruinen Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
@@ -907,7 +907,7 @@ IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
 === TRAINER_DUSTY_5 ===
 Name: Rüdiger
-Class: Ruin Maniac
+Class: Ruinen Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
@@ -1034,7 +1034,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_LOLA_1 ===
 Name: Lola
-Class: Tuber F
+Class: Planscher
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -1051,7 +1051,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_AUSTINA ===
 Name: Anke
-Class: Tuber F
+Class: Planscher
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -1064,7 +1064,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GWEN ===
 Name: Hilde
-Class: Tuber F
+Class: Planscher
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -1077,7 +1077,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LOLA_2 ===
 Name: Lola
-Class: Tuber F
+Class: Planscher
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -1094,7 +1094,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_LOLA_3 ===
 Name: Lola
-Class: Tuber F
+Class: Planscher
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -1111,7 +1111,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_LOLA_4 ===
 Name: Lola
-Class: Tuber F
+Class: Planscher
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -1128,7 +1128,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_LOLA_5 ===
 Name: Lola
-Class: Tuber F
+Class: Planscher
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -1145,7 +1145,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_RICKY_1 ===
 Name: Günther
-Class: Tuber M
+Class: Planscher
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -1162,7 +1162,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_SIMON ===
 Name: Simon
-Class: Tuber M
+Class: Planscher
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -1179,7 +1179,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHARLIE ===
 Name: Hilmar
-Class: Tuber M
+Class: Planscher
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -1192,7 +1192,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RICKY_2 ===
 Name: Günther
-Class: Tuber M
+Class: Planscher
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -1209,7 +1209,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_RICKY_3 ===
 Name: Günther
-Class: Tuber M
+Class: Planscher
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -1226,7 +1226,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_RICKY_4 ===
 Name: Günther
-Class: Tuber M
+Class: Planscher
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -1243,7 +1243,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_RICKY_5 ===
 Name: Günther
-Class: Tuber M
+Class: Planscher
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -1260,7 +1260,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_RANDALL ===
 Name: Hubert
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1277,7 +1277,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_PARKER ===
 Name: Patrick
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1294,7 +1294,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_GEORGE ===
 Name: Nils
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1311,7 +1311,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BERKE ===
 Name: Christian
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1327,7 +1327,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BRAXTON ===
 Name: Dennis
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1377,7 +1377,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_VINCENT ===
 Name: Otfried
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1399,7 +1399,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_LEROY ===
 Name: Otmar
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1417,7 +1417,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_WILTON_1 ===
 Name: Pascal
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1439,7 +1439,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_EDGAR ===
 Name: Edgar
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1457,7 +1457,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_ALBERT ===
 Name: Pablo
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1475,7 +1475,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_SAMUEL ===
 Name: Richard
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1497,7 +1497,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_VITO ===
 Name: Paul
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1523,7 +1523,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_OWEN ===
 Name: Raimund
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1545,7 +1545,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_WILTON_2 ===
 Name: Pascal
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1567,7 +1567,7 @@ IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_WILTON_3 ===
 Name: Pascal
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1589,7 +1589,7 @@ IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_WILTON_4 ===
 Name: Pascal
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1611,7 +1611,7 @@ IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_WILTON_5 ===
 Name: Pascal
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1633,7 +1633,7 @@ IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
 
 === TRAINER_WARREN ===
 Name: Markus
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -1651,7 +1651,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MARY ===
 Name: Yvonne
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1667,7 +1667,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ALEXIA ===
 Name: Doris
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1684,7 +1684,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_JODY ===
 Name: Roswita
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1700,7 +1700,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_WENDY ===
 Name: Viola
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1734,7 +1734,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_KEIRA ===
 Name: Antje
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1752,7 +1752,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BROOKE_1 ===
 Name: Veronika
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1774,7 +1774,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JENNIFER ===
 Name: Marianne
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1788,7 +1788,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_HOPE ===
 Name: Trudlinde
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1802,7 +1802,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_SHANNON ===
 Name: Theresa
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1816,7 +1816,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MICHELLE ===
 Name: Michelle
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1838,7 +1838,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CAROLINE ===
 Name: Karoline
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1856,7 +1856,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JULIE ===
 Name: Michaela
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1878,7 +1878,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BROOKE_2 ===
 Name: Veronika
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1900,7 +1900,7 @@ IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_BROOKE_3 ===
 Name: Veronika
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1922,7 +1922,7 @@ IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_BROOKE_4 ===
 Name: Veronika
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1944,7 +1944,7 @@ IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_BROOKE_5 ===
 Name: Veronika
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -1966,7 +1966,7 @@ IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
 
 === TRAINER_PATRICIA ===
 Name: Walburga
-Class: Hex Maniac
+Class: Hexe
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
@@ -1983,7 +1983,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KINDRA ===
 Name: Gundula
-Class: Hex Maniac
+Class: Hexe
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
@@ -2000,7 +2000,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TAMMY ===
 Name: Brunhilde
-Class: Hex Maniac
+Class: Hexe
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
@@ -2017,7 +2017,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_VALERIE_1 ===
 Name: Tabitha
-Class: Hex Maniac
+Class: Hexe
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
@@ -2030,7 +2030,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TASHA ===
 Name: Pandora
-Class: Hex Maniac
+Class: Hexe
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
@@ -2043,7 +2043,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_VALERIE_2 ===
 Name: Tabitha
-Class: Hex Maniac
+Class: Hexe
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
@@ -2060,7 +2060,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_VALERIE_3 ===
 Name: Tabitha
-Class: Hex Maniac
+Class: Hexe
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
@@ -2077,7 +2077,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_VALERIE_4 ===
 Name: Tabitha
-Class: Hex Maniac
+Class: Hexe
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
@@ -2094,7 +2094,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_VALERIE_5 ===
 Name: Tabitha
-Class: Hex Maniac
+Class: Hexe
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
@@ -2280,7 +2280,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_MELISSA ===
 Name: Melissa
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -2293,7 +2293,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SHEILA ===
 Name: Sylvia
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -2306,7 +2306,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SHIRLEY ===
 Name: Mirjam
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -2319,7 +2319,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JESSICA_1 ===
 Name: Germaine
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -2344,7 +2344,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CONNIE ===
 Name: Francesca
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -2357,7 +2357,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BRIDGET ===
 Name: Salma
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -2370,7 +2370,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_OLIVIA ===
 Name: Tia
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -2402,7 +2402,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_TIFFANY ===
 Name: Daniela
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -2419,7 +2419,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JESSICA_2 ===
 Name: Germaine
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -2444,7 +2444,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_JESSICA_3 ===
 Name: Germaine
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -2469,7 +2469,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_JESSICA_4 ===
 Name: Germaine
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -2494,7 +2494,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_JESSICA_5 ===
 Name: Germaine
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -2519,7 +2519,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_WINSTON_1 ===
 Name: Rene
-Class: Rich Boy
+Class: Schnösel
 Pic: Rich Boy
 Gender: Male
 Music: Rich
@@ -2533,7 +2533,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MOLLIE ===
 Name: Karin
-Class: Expert
+Class: Expertee
 Pic: Expert F
 Gender: Female
 Music: Intense
@@ -2550,7 +2550,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_GARRET ===
 Name: Kai
-Class: Rich Boy
+Class: Schnösel
 Pic: Rich Boy
 Gender: Male
 Music: Rich
@@ -2564,7 +2564,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WINSTON_2 ===
 Name: Rene
-Class: Rich Boy
+Class: Schnösel
 Pic: Rich Boy
 Gender: Male
 Music: Rich
@@ -2578,7 +2578,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WINSTON_3 ===
 Name: Rene
-Class: Rich Boy
+Class: Schnösel
 Pic: Rich Boy
 Gender: Male
 Music: Rich
@@ -2592,7 +2592,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WINSTON_4 ===
 Name: Rene
-Class: Rich Boy
+Class: Schnösel
 Pic: Rich Boy
 Gender: Male
 Music: Rich
@@ -2606,7 +2606,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WINSTON_5 ===
 Name: Rene
-Class: Rich Boy
+Class: Schnösel
 Pic: Rich Boy
 Gender: Male
 Music: Rich
@@ -2637,7 +2637,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_THALIA_1 ===
 Name: Halle
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -2744,7 +2744,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_LUIS ===
 Name: Konstantin
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2757,7 +2757,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DOMINIK ===
 Name: Guido
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2770,7 +2770,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DOUGLAS ===
 Name: Ignaz
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2787,7 +2787,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_DARRIN ===
 Name: Manuel
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2808,7 +2808,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_TONY_1 ===
 Name: Kevin
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2821,7 +2821,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JEROME ===
 Name: Oswald
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2834,7 +2834,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MATTHEW ===
 Name: Umberto
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2847,7 +2847,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAVID ===
 Name: Winfried
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2864,7 +2864,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SPENCER ===
 Name: Leopold
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2881,7 +2881,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROLAND ===
 Name: Thomas
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2894,7 +2894,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NOLEN ===
 Name: Timo
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2907,7 +2907,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_STAN ===
 Name: Balthasar
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2920,7 +2920,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BARRY ===
 Name: Basil
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2933,7 +2933,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEAN ===
 Name: Dagobert
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2954,7 +2954,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RODNEY ===
 Name: Dieter
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2967,7 +2967,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RICHARD ===
 Name: Enno
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2980,7 +2980,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HERMAN ===
 Name: Benno
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -2997,7 +2997,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SANTIAGO ===
 Name: Karl
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3014,7 +3014,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GILBERT ===
 Name: Erich
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3027,7 +3027,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FRANKLIN ===
 Name: Kasper
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3040,7 +3040,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KEVIN ===
 Name: Julius
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3053,7 +3053,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JACK ===
 Name: Pedro
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3066,7 +3066,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DUDLEY ===
 Name: Theodor
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3087,7 +3087,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHAD ===
 Name: Jannik
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3104,7 +3104,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TONY_2 ===
 Name: Kevin
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3117,7 +3117,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_TONY_3 ===
 Name: Kevin
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3130,7 +3130,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_TONY_4 ===
 Name: Kevin
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3147,7 +3147,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_TONY_5 ===
 Name: Kevin
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -3164,7 +3164,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_TAKAO ===
 Name: Satoru
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -3177,7 +3177,7 @@ IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_HITOSHI ===
 Name: Shigeru
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -3194,7 +3194,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_KIYO ===
 Name: Yu
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -3207,7 +3207,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_KOICHI ===
 Name: Junichi
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -3224,7 +3224,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_NOB_1 ===
 Name: Minoru
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -3237,7 +3237,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_NOB_2 ===
 Name: Minoru
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -3250,7 +3250,7 @@ IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_NOB_3 ===
 Name: Minoru
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -3267,7 +3267,7 @@ IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_NOB_4 ===
 Name: Minoru
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -3288,7 +3288,7 @@ IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_NOB_5 ===
 Name: Minoru
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -3313,7 +3313,7 @@ IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
 
 === TRAINER_YUJI ===
 Name: Hideo
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -3330,7 +3330,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_DAISUKE ===
 Name: Kenji
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -3343,7 +3343,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_ATSUSHI ===
 Name: Hiroshi
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -3356,7 +3356,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_KIRK ===
 Name: Chuck
-Class: Guitarist
+Class: Gitarrist
 Pic: Guitarist
 Gender: Male
 Music: Intense
@@ -3410,7 +3410,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SHAWN ===
 Name: Reinhard
-Class: Guitarist
+Class: Gitarrist
 Pic: Guitarist
 Gender: Male
 Music: Intense
@@ -3427,7 +3427,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_FERNANDO_1 ===
 Name: Kerry
-Class: Guitarist
+Class: Gitarrist
 Pic: Guitarist
 Gender: Male
 Music: Intense
@@ -3444,7 +3444,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DALTON_1 ===
 Name: Bob
-Class: Guitarist
+Class: Gitarrist
 Pic: Guitarist
 Gender: Male
 Music: Intense
@@ -3461,7 +3461,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DALTON_2 ===
 Name: Bob
-Class: Guitarist
+Class: Gitarrist
 Pic: Guitarist
 Gender: Male
 Music: Intense
@@ -3482,7 +3482,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_DALTON_3 ===
 Name: Bob
-Class: Guitarist
+Class: Gitarrist
 Pic: Guitarist
 Gender: Male
 Music: Intense
@@ -3503,7 +3503,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_DALTON_4 ===
 Name: Bob
-Class: Guitarist
+Class: Gitarrist
 Pic: Guitarist
 Gender: Male
 Music: Intense
@@ -3524,7 +3524,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_DALTON_5 ===
 Name: Bob
-Class: Guitarist
+Class: Gitarrist
 Pic: Guitarist
 Gender: Male
 Music: Intense
@@ -3545,7 +3545,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_COLE ===
 Name: Hendrik
-Class: Kindler
+Class: Hitzkopf
 Pic: Kindler
 Gender: Male
 Music: Hiker
@@ -3558,7 +3558,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JEFF ===
 Name: Raphael
-Class: Kindler
+Class: Hitzkopf
 Pic: Kindler
 Gender: Male
 Music: Hiker
@@ -3575,7 +3575,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_AXLE ===
 Name: Hagen
-Class: Kindler
+Class: Hitzkopf
 Pic: Kindler
 Gender: Male
 Music: Hiker
@@ -3588,7 +3588,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JACE ===
 Name: Thorsten
-Class: Kindler
+Class: Hitzkopf
 Pic: Kindler
 Gender: Male
 Music: Hiker
@@ -3601,7 +3601,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_KEEGAN ===
 Name: Horst
-Class: Kindler
+Class: Hitzkopf
 Pic: Kindler
 Gender: Male
 Music: Hiker
@@ -3614,7 +3614,7 @@ IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_BERNIE_1 ===
 Name: Hasso
-Class: Kindler
+Class: Hitzkopf
 Pic: Kindler
 Gender: Male
 Music: Hiker
@@ -3631,7 +3631,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BERNIE_2 ===
 Name: Hasso
-Class: Kindler
+Class: Hitzkopf
 Pic: Kindler
 Gender: Male
 Music: Hiker
@@ -3648,7 +3648,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_BERNIE_3 ===
 Name: Hasso
-Class: Kindler
+Class: Hitzkopf
 Pic: Kindler
 Gender: Male
 Music: Hiker
@@ -3665,7 +3665,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_BERNIE_4 ===
 Name: Hasso
-Class: Kindler
+Class: Hitzkopf
 Pic: Kindler
 Gender: Male
 Music: Hiker
@@ -3682,7 +3682,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_BERNIE_5 ===
 Name: Hasso
-Class: Kindler
+Class: Hitzkopf
 Pic: Kindler
 Gender: Male
 Music: Hiker
@@ -3809,7 +3809,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AUTUMN ===
 Name: Clara
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -3911,7 +3911,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_BRENT ===
 Name: Romeo
-Class: Bug Maniac
+Class: Käfer Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
@@ -3924,7 +3924,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_DONALD ===
 Name: Till
-Class: Bug Maniac
+Class: Käfer Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
@@ -3945,7 +3945,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_TAYLOR ===
 Name: Uriel
-Class: Bug Maniac
+Class: Käfer Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
@@ -3966,7 +3966,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JEFFREY_1 ===
 Name: Bruno
-Class: Bug Maniac
+Class: Käfer Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
@@ -3987,7 +3987,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEREK ===
 Name: Burkard
-Class: Bug Maniac
+Class: Käfer Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
@@ -4004,7 +4004,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_JEFFREY_2 ===
 Name: Bruno
-Class: Bug Maniac
+Class: Käfer Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
@@ -4025,7 +4025,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_JEFFREY_3 ===
 Name: Bruno
-Class: Bug Maniac
+Class: Käfer Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
@@ -4046,7 +4046,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_JEFFREY_4 ===
 Name: Bruno
-Class: Bug Maniac
+Class: Käfer Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
@@ -4071,7 +4071,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_JEFFREY_5 ===
 Name: Bruno
-Class: Bug Maniac
+Class: Käfer Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
@@ -4100,7 +4100,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_EDWARD ===
 Name: Wendelin
-Class: Psychic
+Class: Psycho
 Pic: Psychic M
 Gender: Male
 Music: Intense
@@ -4114,7 +4114,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_PRESTON ===
 Name: Urban
-Class: Psychic
+Class: Psycho
 Pic: Psychic M
 Gender: Male
 Music: Intense
@@ -4127,7 +4127,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_VIRGIL ===
 Name: Zoltan
-Class: Psychic
+Class: Psycho
 Pic: Psychic M
 Gender: Male
 Music: Intense
@@ -4140,7 +4140,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BLAKE ===
 Name: David
-Class: Psychic
+Class: Psycho
 Pic: Psychic M
 Gender: Male
 Music: Intense
@@ -4153,7 +4153,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_WILLIAM ===
 Name: Wulf
-Class: Psychic
+Class: Psycho
 Pic: Psychic M
 Gender: Male
 Music: Intense
@@ -4174,7 +4174,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOSHUA ===
 Name: Jonas
-Class: Psychic
+Class: Psycho
 Pic: Psychic M
 Gender: Male
 Music: Intense
@@ -4191,7 +4191,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CAMERON_1 ===
 Name: Maximilian
-Class: Psychic
+Class: Psycho
 Pic: Psychic M
 Gender: Male
 Music: Intense
@@ -4204,7 +4204,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CAMERON_2 ===
 Name: Maximilian
-Class: Psychic
+Class: Psycho
 Pic: Psychic M
 Gender: Male
 Music: Intense
@@ -4221,7 +4221,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_CAMERON_3 ===
 Name: Maximilian
-Class: Psychic
+Class: Psycho
 Pic: Psychic M
 Gender: Male
 Music: Intense
@@ -4238,7 +4238,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_CAMERON_4 ===
 Name: Maximilian
-Class: Psychic
+Class: Psycho
 Pic: Psychic M
 Gender: Male
 Music: Intense
@@ -4255,7 +4255,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_CAMERON_5 ===
 Name: Maximilian
-Class: Psychic
+Class: Psycho
 Pic: Psychic M
 Gender: Male
 Music: Intense
@@ -4272,7 +4272,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_JACLYN ===
 Name: Cosima
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -4286,7 +4286,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HANNAH ===
 Name: Hannah
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -4299,7 +4299,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_SAMANTHA ===
 Name: Samantha
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -4312,7 +4312,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAURA ===
 Name: Dolores
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -4325,7 +4325,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_KAYLA ===
 Name: Camilla
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -4346,7 +4346,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALEXIS ===
 Name: Alexis
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -4363,7 +4363,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JACKI_1 ===
 Name: Kornelia
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -4380,7 +4380,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JACKI_2 ===
 Name: Kornelia
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -4397,7 +4397,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_JACKI_3 ===
 Name: Kornelia
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -4414,7 +4414,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_JACKI_4 ===
 Name: Kornelia
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -4431,7 +4431,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_JACKI_5 ===
 Name: Kornelia
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -4586,7 +4586,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_SIDNEY ===
 Name: Ulrich
-Class: Elite Four
+Class: Top Vier
 Pic: Elite Four Sidney
 Gender: Male
 Music: Elite Four
@@ -4637,7 +4637,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_PHOEBE ===
 Name: Antonia
-Class: Elite Four
+Class: Top Vier
 Pic: Elite Four Phoebe
 Gender: Female
 Music: Elite Four
@@ -4688,7 +4688,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_GLACIA ===
 Name: Frosina
-Class: Elite Four
+Class: Top Vier
 Pic: Elite Four Glacia
 Gender: Female
 Music: Elite Four
@@ -4739,7 +4739,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_DRAKE ===
 Name: Dragan
-Class: Elite Four
+Class: Top Vier
 Pic: Elite Four Drake
 Gender: Male
 Music: Elite Four
@@ -4790,7 +4790,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ROXANNE_1 ===
 Name: Felizia
-Class: Leader
+Class: Leiter
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
@@ -4824,7 +4824,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_BRAWLY_1 ===
 Name: Kamillo
-Class: Leader
+Class: Leiter
 Pic: Leader Brawly
 Gender: Male
 Music: Male
@@ -4858,7 +4858,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_WATTSON_1 ===
 Name: Walter
-Class: Leader
+Class: Leiter
 Pic: Leader Wattson
 Gender: Male
 Music: Male
@@ -4900,7 +4900,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_FLANNERY_1 ===
 Name: Flavia
-Class: Leader
+Class: Leiter
 Pic: Leader Flannery
 Gender: Female
 Music: Female
@@ -4942,7 +4942,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_NORMAN_1 ===
 Name: Norman
-Class: Leader
+Class: Leiter
 Pic: Leader Norman
 Gender: Male
 Music: Male
@@ -4984,7 +4984,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_WINONA_1 ===
 Name: Wibke
-Class: Leader
+Class: Leiter
 Pic: Leader Winona
 Gender: Female
 Music: Female
@@ -5034,7 +5034,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_TATE_AND_LIZA_1 ===
 Name: Ben&Svenja
-Class: Leader
+Class: Leiter
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
@@ -5076,7 +5076,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_JUAN_1 ===
 Name: Juan
-Class: Leader
+Class: Leiter
 Pic: Leader Juan
 Gender: Male
 Music: Male
@@ -5126,7 +5126,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_JERRY_1 ===
 Name: Orlando
-Class: School Kid
+Class: Schulkind
 Pic: School Kid M
 Gender: Male
 Music: Male
@@ -5139,7 +5139,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_TED ===
 Name: Ramon
-Class: School Kid
+Class: Schulkind
 Pic: School Kid M
 Gender: Male
 Music: Male
@@ -5152,7 +5152,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_PAUL ===
 Name: Jürgen
-Class: School Kid
+Class: Schulkind
 Pic: School Kid M
 Gender: Male
 Music: Male
@@ -5173,7 +5173,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_JERRY_2 ===
 Name: Orlando
-Class: School Kid
+Class: Schulkind
 Pic: School Kid M
 Gender: Male
 Music: Male
@@ -5190,7 +5190,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_JERRY_3 ===
 Name: Orlando
-Class: School Kid
+Class: Schulkind
 Pic: School Kid M
 Gender: Male
 Music: Male
@@ -5207,7 +5207,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_JERRY_4 ===
 Name: Orlando
-Class: School Kid
+Class: Schulkind
 Pic: School Kid M
 Gender: Male
 Music: Male
@@ -5224,7 +5224,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_JERRY_5 ===
 Name: Orlando
-Class: School Kid
+Class: Schulkind
 Pic: School Kid M
 Gender: Male
 Music: Male
@@ -5245,7 +5245,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_KAREN_1 ===
 Name: Kerstin
-Class: School Kid
+Class: Schulkind
 Pic: School Kid F
 Gender: Female
 Music: Girl
@@ -5258,7 +5258,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_GEORGIA ===
 Name: Ariane
-Class: School Kid
+Class: Schulkind
 Pic: School Kid F
 Gender: Female
 Music: Girl
@@ -5275,7 +5275,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_KAREN_2 ===
 Name: Kerstin
-Class: School Kid
+Class: Schulkind
 Pic: School Kid F
 Gender: Female
 Music: Girl
@@ -5292,7 +5292,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_KAREN_3 ===
 Name: Kerstin
-Class: School Kid
+Class: Schulkind
 Pic: School Kid F
 Gender: Female
 Music: Girl
@@ -5309,7 +5309,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_KAREN_4 ===
 Name: Kerstin
-Class: School Kid
+Class: Schulkind
 Pic: School Kid F
 Gender: Female
 Music: Girl
@@ -5326,7 +5326,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_KAREN_5 ===
 Name: Kerstin
-Class: School Kid
+Class: Schulkind
 Pic: School Kid F
 Gender: Female
 Music: Girl
@@ -5343,7 +5343,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_KATE_AND_JOY ===
 Name: Eva & ute
-Class: Sr And Jr
+Class: Sen. And Jun.
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
@@ -5368,7 +5368,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANNA_AND_MEG_1 ===
 Name: Irm & ida
-Class: Sr And Jr
+Class: Sen. And Jun.
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
@@ -5392,7 +5392,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANNA_AND_MEG_2 ===
 Name: Irm & ida
-Class: Sr And Jr
+Class: Sen. And Jun.
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
@@ -5416,7 +5416,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ANNA_AND_MEG_3 ===
 Name: Irm & ida
-Class: Sr And Jr
+Class: Sen. And Jun.
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
@@ -5440,7 +5440,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ANNA_AND_MEG_4 ===
 Name: Irm & ida
-Class: Sr And Jr
+Class: Sen. And Jun.
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
@@ -5464,7 +5464,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ANNA_AND_MEG_5 ===
 Name: Irm & ida
-Class: Sr And Jr
+Class: Sen. And Jun.
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
@@ -5488,7 +5488,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_VICTOR ===
 Name: Viktor
-Class: Winstrate
+Class: Sihgers
 Pic: Pokefan M
 Gender: Male
 Music: Twins
@@ -5627,7 +5627,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_VICTORIA ===
 Name: Viktoria
-Class: Winstrate
+Class: Sihgers
 Pic: Pokefan F
 Gender: Female
 Music: Twins
@@ -5759,7 +5759,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_TIMOTHY_1 ===
 Name: Theobald
-Class: Expert
+Class: Expertee
 Pic: Expert M
 Gender: Male
 Music: Intense
@@ -5772,7 +5772,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_TIMOTHY_2 ===
 Name: Theobald
-Class: Expert
+Class: Expertee
 Pic: Expert M
 Gender: Male
 Music: Intense
@@ -5789,7 +5789,7 @@ IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
 
 === TRAINER_TIMOTHY_3 ===
 Name: Theobald
-Class: Expert
+Class: Expertee
 Pic: Expert M
 Gender: Male
 Music: Intense
@@ -5806,7 +5806,7 @@ IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 
 === TRAINER_TIMOTHY_4 ===
 Name: Theobald
-Class: Expert
+Class: Expertee
 Pic: Expert M
 Gender: Male
 Music: Intense
@@ -5823,7 +5823,7 @@ IVs: 27 HP / 27 Atk / 27 Def / 27 SpA / 27 SpD / 27 Spe
 
 === TRAINER_TIMOTHY_5 ===
 Name: Theobald
-Class: Expert
+Class: Expertee
 Pic: Expert M
 Gender: Male
 Music: Intense
@@ -5840,7 +5840,7 @@ IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 
 === TRAINER_VICKY ===
 Name: Vicky
-Class: Winstrate
+Class: Sihgers
 Pic: Expert F
 Gender: Female
 Music: Intense
@@ -5857,7 +5857,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_SHELBY_1 ===
 Name: Waltraud
-Class: Expert
+Class: Expertee
 Pic: Expert F
 Gender: Female
 Music: Intense
@@ -5874,7 +5874,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_SHELBY_2 ===
 Name: Waltraud
-Class: Expert
+Class: Expertee
 Pic: Expert F
 Gender: Female
 Music: Intense
@@ -5891,7 +5891,7 @@ IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
 
 === TRAINER_SHELBY_3 ===
 Name: Waltraud
-Class: Expert
+Class: Expertee
 Pic: Expert F
 Gender: Female
 Music: Intense
@@ -5908,7 +5908,7 @@ IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 
 === TRAINER_SHELBY_4 ===
 Name: Waltraud
-Class: Expert
+Class: Expertee
 Pic: Expert F
 Gender: Female
 Music: Intense
@@ -5925,7 +5925,7 @@ IVs: 27 HP / 27 Atk / 27 Def / 27 SpA / 27 SpD / 27 Spe
 
 === TRAINER_SHELBY_5 ===
 Name: Waltraud
-Class: Expert
+Class: Expertee
 Pic: Expert F
 Gender: Female
 Music: Intense
@@ -5942,7 +5942,7 @@ IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 
 === TRAINER_CALVIN_1 ===
 Name: Ansgar
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -5955,7 +5955,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BILLY ===
 Name: Fridolin
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -5972,7 +5972,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOSH ===
 Name: Gaston
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -5986,7 +5986,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_TOMMY ===
 Name: Dominik
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -6003,7 +6003,7 @@ IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_JOEY ===
 Name: Ludger
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -6016,7 +6016,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BEN ===
 Name: Egon
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -6041,7 +6041,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_QUINCY ===
 Name: Dirk
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -6067,7 +6067,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_KATELYNN ===
 Name: Cora
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -6093,7 +6093,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JAYLEN ===
 Name: Eike
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -6106,7 +6106,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DILLON ===
 Name: Söncke
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -6119,7 +6119,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CALVIN_2 ===
 Name: Ansgar
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -6132,7 +6132,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_CALVIN_3 ===
 Name: Ansgar
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -6149,7 +6149,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_CALVIN_4 ===
 Name: Ansgar
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -6170,7 +6170,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_CALVIN_5 ===
 Name: Ansgar
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -6191,7 +6191,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_EDDIE ===
 Name: Henry
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -6208,7 +6208,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALLEN ===
 Name: Hugo
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -6225,7 +6225,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TIMMY ===
 Name: Frieder
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -6301,7 +6301,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ANDREW ===
 Name: Ansgar
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -6322,7 +6322,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_IVAN ===
 Name: Angelo
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -6343,7 +6343,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CLAUDE ===
 Name: Anselm
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -6364,7 +6364,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ELLIOT_1 ===
 Name: Alois
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -6385,7 +6385,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NED ===
 Name: Arthur
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -6398,7 +6398,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_DALE ===
 Name: Albin
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -6423,7 +6423,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NOLAN ===
 Name: Amadeus
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -6436,7 +6436,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BARNY ===
 Name: Albrecht
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -6453,7 +6453,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WADE ===
 Name: Alain
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -6466,7 +6466,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CARTER ===
 Name: Armin
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -6483,7 +6483,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ELLIOT_2 ===
 Name: Alois
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -6504,7 +6504,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ELLIOT_3 ===
 Name: Alois
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -6529,7 +6529,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ELLIOT_4 ===
 Name: Alois
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -6554,7 +6554,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ELLIOT_5 ===
 Name: Alois
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -6579,7 +6579,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_RONALD ===
 Name: Achmed
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -6612,7 +6612,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JACOB ===
 Name: Roman
-Class: Triathlete
+Class: Triathlet
 Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
@@ -6633,7 +6633,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_ANTHONY ===
 Name: Emil
-Class: Triathlete
+Class: Triathlet
 Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
@@ -6650,7 +6650,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BENJAMIN_1 ===
 Name: Egidius
-Class: Triathlete
+Class: Triathlet
 Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
@@ -6663,7 +6663,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BENJAMIN_2 ===
 Name: Egidius
-Class: Triathlete
+Class: Triathlet
 Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
@@ -6676,7 +6676,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_BENJAMIN_3 ===
 Name: Egidius
-Class: Triathlete
+Class: Triathlet
 Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
@@ -6689,7 +6689,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_BENJAMIN_4 ===
 Name: Egidius
-Class: Triathlete
+Class: Triathlet
 Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
@@ -6702,7 +6702,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_BENJAMIN_5 ===
 Name: Egidius
-Class: Triathlete
+Class: Triathlet
 Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
@@ -6715,7 +6715,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_ABIGAIL_1 ===
 Name: Irmgard
-Class: Triathlete
+Class: Triathlet
 Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
@@ -6728,7 +6728,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JASMINE ===
 Name: Martha
-Class: Triathlete
+Class: Triathlet
 Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
@@ -6749,7 +6749,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ABIGAIL_2 ===
 Name: Irmgard
-Class: Triathlete
+Class: Triathlet
 Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
@@ -6762,7 +6762,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ABIGAIL_3 ===
 Name: Irmgard
-Class: Triathlete
+Class: Triathlet
 Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
@@ -6775,7 +6775,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ABIGAIL_4 ===
 Name: Irmgard
-Class: Triathlete
+Class: Triathlet
 Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
@@ -6788,7 +6788,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ABIGAIL_5 ===
 Name: Irmgard
-Class: Triathlete
+Class: Triathlet
 Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
@@ -6801,7 +6801,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_DYLAN_1 ===
 Name: Igor
-Class: Triathlete
+Class: Triathlet
 Pic: Running Triathlete M
 Gender: Male
 Music: Male
@@ -6814,7 +6814,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DYLAN_2 ===
 Name: Igor
-Class: Triathlete
+Class: Triathlet
 Pic: Running Triathlete M
 Gender: Male
 Music: Male
@@ -6827,7 +6827,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_DYLAN_3 ===
 Name: Igor
-Class: Triathlete
+Class: Triathlet
 Pic: Running Triathlete M
 Gender: Male
 Music: Male
@@ -6840,7 +6840,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_DYLAN_4 ===
 Name: Igor
-Class: Triathlete
+Class: Triathlet
 Pic: Running Triathlete M
 Gender: Male
 Music: Male
@@ -6853,7 +6853,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_DYLAN_5 ===
 Name: Igor
-Class: Triathlete
+Class: Triathlet
 Pic: Running Triathlete M
 Gender: Male
 Music: Male
@@ -6866,7 +6866,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_MARIA_1 ===
 Name: Jutta
-Class: Triathlete
+Class: Triathlet
 Pic: Running Triathlete F
 Gender: Female
 Music: Female
@@ -6879,7 +6879,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MARIA_2 ===
 Name: Jutta
-Class: Triathlete
+Class: Triathlet
 Pic: Running Triathlete F
 Gender: Female
 Music: Female
@@ -6892,7 +6892,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_MARIA_3 ===
 Name: Jutta
-Class: Triathlete
+Class: Triathlet
 Pic: Running Triathlete F
 Gender: Female
 Music: Female
@@ -6905,7 +6905,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_MARIA_4 ===
 Name: Jutta
-Class: Triathlete
+Class: Triathlet
 Pic: Running Triathlete F
 Gender: Female
 Music: Female
@@ -6918,7 +6918,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_MARIA_5 ===
 Name: Jutta
-Class: Triathlete
+Class: Triathlet
 Pic: Running Triathlete F
 Gender: Female
 Music: Female
@@ -6931,7 +6931,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_CAMDEN ===
 Name: Elmar
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
@@ -6948,7 +6948,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEMETRIUS ===
 Name: Emil
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -6965,7 +6965,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ISAIAH_1 ===
 Name: Kaspar
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
@@ -6978,7 +6978,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_PABLO_1 ===
 Name: Pablo
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
@@ -6995,7 +6995,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHASE ===
 Name: Ferdinand
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
@@ -7012,7 +7012,7 @@ IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
 === TRAINER_ISAIAH_2 ===
 Name: Kaspar
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
@@ -7025,7 +7025,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ISAIAH_3 ===
 Name: Kaspar
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
@@ -7038,7 +7038,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ISAIAH_4 ===
 Name: Kaspar
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
@@ -7051,7 +7051,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ISAIAH_5 ===
 Name: Kaspar
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
@@ -7064,7 +7064,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_ISOBEL ===
 Name: Donna
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
@@ -7077,7 +7077,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DONNY ===
 Name: Donata
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
@@ -7094,7 +7094,7 @@ IVs: 19 HP / 19 Atk / 19 Def / 19 SpA / 19 SpD / 19 Spe
 
 === TRAINER_TALIA ===
 Name: Esther
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
@@ -7107,7 +7107,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KATELYN_1 ===
 Name: Mechthild
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
@@ -7120,7 +7120,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALLISON ===
 Name: Lotte
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
@@ -7137,7 +7137,7 @@ IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 
 === TRAINER_KATELYN_2 ===
 Name: Mechthild
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
@@ -7150,7 +7150,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_KATELYN_3 ===
 Name: Mechthild
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
@@ -7163,7 +7163,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_KATELYN_4 ===
 Name: Mechthild
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
@@ -7176,7 +7176,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_KATELYN_5 ===
 Name: Mechthild
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
@@ -7189,7 +7189,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_NICOLAS_1 ===
 Name: Alfons
-Class: Dragon Tamer
+Class: Drachenprofi
 Pic: Dragon Tamer
 Gender: Male
 Music: Intense
@@ -7206,7 +7206,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_NICOLAS_2 ===
 Name: Alfons
-Class: Dragon Tamer
+Class: Drachenprofi
 Pic: Dragon Tamer
 Gender: Male
 Music: Intense
@@ -7223,7 +7223,7 @@ IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_NICOLAS_3 ===
 Name: Alfons
-Class: Dragon Tamer
+Class: Drachenprofi
 Pic: Dragon Tamer
 Gender: Male
 Music: Intense
@@ -7240,7 +7240,7 @@ IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_NICOLAS_4 ===
 Name: Alfons
-Class: Dragon Tamer
+Class: Drachenprofi
 Pic: Dragon Tamer
 Gender: Male
 Music: Intense
@@ -7261,7 +7261,7 @@ IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_NICOLAS_5 ===
 Name: Alfons
-Class: Dragon Tamer
+Class: Drachenprofi
 Pic: Dragon Tamer
 Gender: Male
 Music: Intense
@@ -7282,7 +7282,7 @@ IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
 
 === TRAINER_AARON ===
 Name: Edmund
-Class: Dragon Tamer
+Class: Drachenprofi
 Pic: Dragon Tamer
 Gender: Male
 Music: Intense
@@ -7299,7 +7299,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_PERRY ===
 Name: Joschka
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7312,7 +7312,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HUGH ===
 Name: Enrico
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7329,7 +7329,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_PHIL ===
 Name: Henry
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7342,7 +7342,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JARED ===
 Name: Hiob
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7363,7 +7363,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_HUMBERTO ===
 Name: Falko
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7376,7 +7376,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_PRESLEY ===
 Name: Flavio
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7393,7 +7393,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_EDWARDO ===
 Name: Florian
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7410,7 +7410,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_COLIN ===
 Name: Wim
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7427,7 +7427,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROBERT_1 ===
 Name: Fritjof
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7440,7 +7440,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BENNY ===
 Name: Genadi
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7461,7 +7461,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHESTER ===
 Name: Vitali
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7478,7 +7478,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROBERT_2 ===
 Name: Fritjof
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7495,7 +7495,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ROBERT_3 ===
 Name: Fritjof
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7512,7 +7512,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ROBERT_4 ===
 Name: Fritjof
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7529,7 +7529,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ROBERT_5 ===
 Name: Fritjof
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7546,7 +7546,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_ALEX ===
 Name: Arne
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7563,7 +7563,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_BECK ===
 Name: Vincent
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -7576,7 +7576,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_YASU ===
 Name: Valentin
-Class: Ninja Boy
+Class: Ninjajunge
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
@@ -7589,7 +7589,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TAKASHI ===
 Name: Eugen
-Class: Ninja Boy
+Class: Ninjajunge
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
@@ -7606,7 +7606,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DIANNE ===
 Name: Flora
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -7627,7 +7627,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JANI ===
 Name: Leila
-Class: Tuber F
+Class: Planscher
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -7639,7 +7639,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LAO_1 ===
 Name: Eduard
-Class: Ninja Boy
+Class: Ninjajunge
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
@@ -7671,7 +7671,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LUNG ===
 Name: Arnd
-Class: Ninja Boy
+Class: Ninjajunge
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
@@ -7687,7 +7687,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LAO_2 ===
 Name: Eduard
-Class: Ninja Boy
+Class: Ninjajunge
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
@@ -7724,7 +7724,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LAO_3 ===
 Name: Eduard
-Class: Ninja Boy
+Class: Ninjajunge
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
@@ -7761,7 +7761,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_LAO_4 ===
 Name: Eduard
-Class: Ninja Boy
+Class: Ninjajunge
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
@@ -7796,7 +7796,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_LAO_5 ===
 Name: Eduard
-Class: Ninja Boy
+Class: Ninjajunge
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
@@ -7833,7 +7833,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_JOCELYN ===
 Name: Noura
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -7846,7 +7846,7 @@ IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_LAURA ===
 Name: Laura
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -7859,7 +7859,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_CYNDY_1 ===
 Name: Elfi
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -7876,7 +7876,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CORA ===
 Name: Thea
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -7889,7 +7889,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_PAULA ===
 Name: Paula
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -7902,7 +7902,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CYNDY_2 ===
 Name: Elfi
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -7919,7 +7919,7 @@ IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_CYNDY_3 ===
 Name: Elfi
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -7936,7 +7936,7 @@ IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_CYNDY_4 ===
 Name: Elfi
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -7953,7 +7953,7 @@ IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_CYNDY_5 ===
 Name: Elfi
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -7970,7 +7970,7 @@ IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
 
 === TRAINER_MADELINE_1 ===
 Name: Saskia
-Class: Parasol Lady
+Class: Schirmdame
 Pic: Parasol Lady
 Gender: Female
 Music: Female
@@ -7987,7 +7987,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CLARISSA ===
 Name: Gerda
-Class: Parasol Lady
+Class: Schirmdame
 Pic: Parasol Lady
 Gender: Female
 Music: Female
@@ -8004,7 +8004,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANGELICA ===
 Name: Marika
-Class: Parasol Lady
+Class: Schirmdame
 Pic: Parasol Lady
 Gender: Female
 Music: Female
@@ -8021,7 +8021,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MADELINE_2 ===
 Name: Saskia
-Class: Parasol Lady
+Class: Schirmdame
 Pic: Parasol Lady
 Gender: Female
 Music: Female
@@ -8038,7 +8038,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_MADELINE_3 ===
 Name: Saskia
-Class: Parasol Lady
+Class: Schirmdame
 Pic: Parasol Lady
 Gender: Female
 Music: Female
@@ -8055,7 +8055,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_MADELINE_4 ===
 Name: Saskia
-Class: Parasol Lady
+Class: Schirmdame
 Pic: Parasol Lady
 Gender: Female
 Music: Female
@@ -8080,7 +8080,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_MADELINE_5 ===
 Name: Saskia
-Class: Parasol Lady
+Class: Schirmdame
 Pic: Parasol Lady
 Gender: Female
 Music: Female
@@ -8105,7 +8105,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_BEVERLY ===
 Name: Dagmar
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8122,7 +8122,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_IMANI ===
 Name: Heidrun
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8135,7 +8135,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KYLA ===
 Name: Frida
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8148,7 +8148,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DENISE ===
 Name: Denise
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8165,7 +8165,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BETH ===
 Name: Almut
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8178,7 +8178,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TARA ===
 Name: Sieglinde
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8195,7 +8195,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MISSY ===
 Name: Marion
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8208,7 +8208,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALICE ===
 Name: Alice
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8229,7 +8229,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_1 ===
 Name: Monika
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8242,7 +8242,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRACE ===
 Name: Ilona
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8255,7 +8255,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TANYA ===
 Name: Emilie
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8268,7 +8268,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SHARON ===
 Name: Gudrun
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8281,7 +8281,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NIKKI ===
 Name: Astrid
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8298,7 +8298,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDA ===
 Name: Ottilie
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8311,7 +8311,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KATIE ===
 Name: Senta
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8328,7 +8328,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SUSIE ===
 Name: Janka
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8341,7 +8341,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KARA ===
 Name: Renate
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8354,7 +8354,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DANA ===
 Name: Vicki
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8367,7 +8367,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SIENNA ===
 Name: Frauke
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8384,7 +8384,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEBRA ===
 Name: Anja
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8397,7 +8397,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LINDA ===
 Name: Gisela
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8414,7 +8414,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KAYLEE ===
 Name: Paola
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8431,7 +8431,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LAUREL ===
 Name: Birte
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8448,7 +8448,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CARLEE ===
 Name: Dörte
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8461,7 +8461,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_2 ===
 Name: Monika
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8474,7 +8474,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_3 ===
 Name: Monika
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8487,7 +8487,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_4 ===
 Name: Monika
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8504,7 +8504,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_5 ===
 Name: Monika
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -8525,7 +8525,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HEIDI ===
 Name: Jana
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -8550,7 +8550,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BECKY ===
 Name: Heidi
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -8575,7 +8575,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CAROL ===
 Name: Natalie
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -8592,7 +8592,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NANCY ===
 Name: Nancy
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -8609,7 +8609,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MARTHA ===
 Name: Martha
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -8626,7 +8626,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DIANA_1 ===
 Name: Gwendolin
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -8647,7 +8647,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CEDRIC ===
 Name: Fred
-Class: Psychic
+Class: Psycho
 Pic: Psychic M
 Gender: Male
 Music: Intense
@@ -8664,7 +8664,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_IRENE ===
 Name: Irene
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -8681,7 +8681,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DIANA_2 ===
 Name: Gwendolin
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -8702,7 +8702,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_DIANA_3 ===
 Name: Gwendolin
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -8723,7 +8723,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_DIANA_4 ===
 Name: Gwendolin
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -8744,7 +8744,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_DIANA_5 ===
 Name: Gwendolin
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -8765,7 +8765,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_AMY_AND_LIV_1 ===
 Name: Nora & jo
-Class: Twins
+Class: Zwillinge
 Pic: Twins
 Gender: Male
 Music: Twins
@@ -8782,7 +8782,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AMY_AND_LIV_2 ===
 Name: Nora & jo
-Class: Twins
+Class: Zwillinge
 Pic: Twins
 Gender: Male
 Music: Twins
@@ -8799,7 +8799,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_GINA_AND_MIA_1 ===
 Name: Gina & mia
-Class: Twins
+Class: Zwillinge
 Pic: Twins
 Gender: Male
 Music: Twins
@@ -8816,7 +8816,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MIU_AND_YUKI ===
 Name: Lea & grit
-Class: Twins
+Class: Zwillinge
 Pic: Twins
 Gender: Male
 Music: Twins
@@ -8833,7 +8833,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AMY_AND_LIV_3 ===
 Name: Nora & jo
-Class: Twins
+Class: Zwillinge
 Pic: Twins
 Gender: Male
 Music: Twins
@@ -8850,7 +8850,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GINA_AND_MIA_2 ===
 Name: Gina & mia
-Class: Twins
+Class: Zwillinge
 Pic: Twins
 Gender: Male
 Music: Twins
@@ -8871,7 +8871,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AMY_AND_LIV_4 ===
 Name: Nora & jo
-Class: Twins
+Class: Zwillinge
 Pic: Twins
 Gender: Male
 Music: Twins
@@ -8888,7 +8888,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_AMY_AND_LIV_5 ===
 Name: Nora & jo
-Class: Twins
+Class: Zwillinge
 Pic: Twins
 Gender: Male
 Music: Twins
@@ -8913,7 +8913,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_AMY_AND_LIV_6 ===
 Name: Nora & jo
-Class: Twins
+Class: Zwillinge
 Pic: Twins
 Gender: Male
 Music: Twins
@@ -8938,7 +8938,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_HUEY ===
 Name: Tassilo
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -8955,7 +8955,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_EDMOND ===
 Name: Monty
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -8968,7 +8968,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ERNEST_1 ===
 Name: Elert
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -8985,7 +8985,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DWAYNE ===
 Name: Reto
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -9006,7 +9006,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_PHILLIP ===
 Name: Gunnar
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -9023,7 +9023,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LEONARD ===
 Name: Leonard
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -9044,7 +9044,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DUNCAN ===
 Name: Pierre
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -9061,7 +9061,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ERNEST_2 ===
 Name: Elert
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -9082,7 +9082,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ERNEST_3 ===
 Name: Elert
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -9103,7 +9103,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ERNEST_4 ===
 Name: Elert
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -9124,7 +9124,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ERNEST_5 ===
 Name: Elert
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -9145,7 +9145,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_ELI ===
 Name: Freddy
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -9183,7 +9183,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JAZMYN ===
 Name: Gertrud
-Class: Cooltrainer 2
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -9197,7 +9197,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JONAS ===
 Name: Fritz
-Class: Ninja Boy
+Class: Ninjajunge
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
@@ -9214,7 +9214,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KAYLEY ===
 Name: Gabi
-Class: Parasol Lady
+Class: Schirmdame
 Pic: Parasol Lady
 Gender: Female
 Music: Female
@@ -9231,7 +9231,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AURON ===
 Name: Gert
-Class: Expert
+Class: Expertee
 Pic: Expert M
 Gender: Male
 Music: Intense
@@ -9248,7 +9248,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KELVIN ===
 Name: Aaron
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -9265,7 +9265,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MARLEY ===
 Name: Gisa
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -9283,7 +9283,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_REYNA ===
 Name: Gilda
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -9300,7 +9300,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_HUDSON ===
 Name: German
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -9313,7 +9313,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CONOR ===
 Name: Gregor
-Class: Expert
+Class: Expertee
 Pic: Expert M
 Gender: Male
 Music: Intense
@@ -9330,7 +9330,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_EDWIN_1 ===
 Name: Edwin
-Class: Collector
+Class: Sammler
 Pic: Collector
 Gender: Male
 Music: Suspicious
@@ -9347,7 +9347,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HECTOR ===
 Name: Hektor
-Class: Collector
+Class: Sammler
 Pic: Collector
 Gender: Male
 Music: Suspicious
@@ -9364,7 +9364,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TABITHA_MOSSDEEP ===
 Name: Kalle
-Class: Magma Admin
+Class: Magma Boss
 Pic: Magma Admin
 Gender: Male
 Music: Magma
@@ -9385,7 +9385,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_EDWIN_2 ===
 Name: Edwin
-Class: Collector
+Class: Sammler
 Pic: Collector
 Gender: Male
 Music: Suspicious
@@ -9402,7 +9402,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_EDWIN_3 ===
 Name: Edwin
-Class: Collector
+Class: Sammler
 Pic: Collector
 Gender: Male
 Music: Suspicious
@@ -9419,7 +9419,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_EDWIN_4 ===
 Name: Edwin
-Class: Collector
+Class: Sammler
 Pic: Collector
 Gender: Male
 Music: Suspicious
@@ -9436,7 +9436,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_EDWIN_5 ===
 Name: Edwin
-Class: Collector
+Class: Sammler
 Pic: Collector
 Gender: Male
 Music: Suspicious
@@ -9453,7 +9453,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WALLY_VR_1 ===
 Name: Heiko
-Class: Rival
+Class: Rivale
 Pic: Wally
 Gender: Male
 Music: Male
@@ -9503,7 +9503,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_BRENDAN_ROUTE_103_MUDKIP ===
 Name: Brix
-Class: Rival
+Class: Rivale
 Pic: Brendan
 Gender: Male
 Music: Male
@@ -9516,7 +9516,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_MUDKIP ===
 Name: Brix
-Class: Rival
+Class: Rivale
 Pic: Brendan
 Gender: Male
 Music: Male
@@ -9537,7 +9537,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BRENDAN_ROUTE_119_MUDKIP ===
 Name: Brix
-Class: Rival
+Class: Rivale
 Pic: Brendan
 Gender: Male
 Music: Male
@@ -9558,7 +9558,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_BRENDAN_ROUTE_103_TREECKO ===
 Name: Brix
-Class: Rival
+Class: Rivale
 Pic: Brendan
 Gender: Male
 Music: Male
@@ -9571,7 +9571,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_TREECKO ===
 Name: Brix
-Class: Rival
+Class: Rivale
 Pic: Brendan
 Gender: Male
 Music: Male
@@ -9592,7 +9592,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BRENDAN_ROUTE_119_TREECKO ===
 Name: Brix
-Class: Rival
+Class: Rivale
 Pic: Brendan
 Gender: Male
 Music: Male
@@ -9613,7 +9613,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_BRENDAN_ROUTE_103_TORCHIC ===
 Name: Brix
-Class: Rival
+Class: Rivale
 Pic: Brendan
 Gender: Male
 Music: Male
@@ -9626,7 +9626,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_TORCHIC ===
 Name: Brix
-Class: Rival
+Class: Rivale
 Pic: Brendan
 Gender: Male
 Music: Male
@@ -9647,7 +9647,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BRENDAN_ROUTE_119_TORCHIC ===
 Name: Brix
-Class: Rival
+Class: Rivale
 Pic: Brendan
 Gender: Male
 Music: Male
@@ -9668,7 +9668,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_ROUTE_103_MUDKIP ===
 Name: Maike
-Class: Rival
+Class: Rivale
 Pic: May
 Gender: Female
 Music: Female
@@ -9681,7 +9681,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAY_ROUTE_110_MUDKIP ===
 Name: Maike
-Class: Rival
+Class: Rivale
 Pic: May
 Gender: Female
 Music: Female
@@ -9702,7 +9702,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_ROUTE_119_MUDKIP ===
 Name: Maike
-Class: Rival
+Class: Rivale
 Pic: May
 Gender: Female
 Music: Female
@@ -9723,7 +9723,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_ROUTE_103_TREECKO ===
 Name: Maike
-Class: Rival
+Class: Rivale
 Pic: May
 Gender: Female
 Music: Female
@@ -9736,7 +9736,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAY_ROUTE_110_TREECKO ===
 Name: Maike
-Class: Rival
+Class: Rivale
 Pic: May
 Gender: Female
 Music: Female
@@ -9757,7 +9757,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_ROUTE_119_TREECKO ===
 Name: Maike
-Class: Rival
+Class: Rivale
 Pic: May
 Gender: Female
 Music: Female
@@ -9778,7 +9778,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_ROUTE_103_TORCHIC ===
 Name: Maike
-Class: Rival
+Class: Rivale
 Pic: May
 Gender: Female
 Music: Female
@@ -9791,7 +9791,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAY_ROUTE_110_TORCHIC ===
 Name: Maike
-Class: Rival
+Class: Rivale
 Pic: May
 Gender: Female
 Music: Female
@@ -9812,7 +9812,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_ROUTE_119_TORCHIC ===
 Name: Maike
-Class: Rival
+Class: Rivale
 Pic: May
 Gender: Female
 Music: Female
@@ -9833,7 +9833,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_ISAAC_1 ===
 Name: Blasius
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
@@ -9866,7 +9866,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAVIS ===
 Name: Hannes
-Class: Bug Catcher
+Class: Käfersammler
 Pic: Bug Catcher
 Gender: Male
 Music: Male
@@ -9879,7 +9879,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MITCHELL ===
 Name: Hans
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -9904,7 +9904,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ISAAC_2 ===
 Name: Blasius
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
@@ -9937,7 +9937,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ISAAC_3 ===
 Name: Blasius
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
@@ -9970,7 +9970,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ISAAC_4 ===
 Name: Blasius
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
@@ -10003,7 +10003,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ISAAC_5 ===
 Name: Blasius
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
@@ -10036,7 +10036,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_LYDIA_1 ===
 Name: Lydia
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
@@ -10069,7 +10069,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HALLE ===
 Name: Heike
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -10087,7 +10087,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GARRISON ===
 Name: Hauke
-Class: Ruin Maniac
+Class: Ruinen Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
@@ -10100,7 +10100,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LYDIA_2 ===
 Name: Lydia
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
@@ -10133,7 +10133,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_LYDIA_3 ===
 Name: Lydia
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
@@ -10166,7 +10166,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_LYDIA_4 ===
 Name: Lydia
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
@@ -10199,7 +10199,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_LYDIA_5 ===
 Name: Lydia
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
@@ -10472,7 +10472,7 @@ IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_JULIO ===
 Name: Heribert
-Class: Triathlete
+Class: Triathlet
 Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
@@ -10553,7 +10553,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MARC ===
 Name: Hermann
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -10570,7 +10570,7 @@ IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_BRENDEN ===
 Name: Holger
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -10583,7 +10583,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_LILITH ===
 Name: Ilonka
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -10596,7 +10596,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_CRISTIAN ===
 Name: Isidor
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -10609,7 +10609,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_SYLVIA ===
 Name: Ilse
-Class: Hex Maniac
+Class: Hexe
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
@@ -10622,7 +10622,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_LEONARDO ===
 Name: Ivan
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -10635,7 +10635,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ATHENA ===
 Name: Jacky
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -10658,7 +10658,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_HARRISON ===
 Name: Janek
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -10684,7 +10684,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CLARENCE ===
 Name: Jakob
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -10697,7 +10697,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TERRY ===
 Name: Jasper
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -10723,7 +10723,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_KATHLEEN ===
 Name: Jasmin
-Class: Hex Maniac
+Class: Hexe
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
@@ -10749,7 +10749,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NICHOLAS ===
 Name: Jochen
-Class: Psychic
+Class: Psycho
 Pic: Psychic M
 Gender: Male
 Music: Intense
@@ -10831,7 +10831,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MACEY ===
 Name: Julia
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -10844,7 +10844,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_RUSTBORO_TREECKO ===
 Name: Brix
-Class: Rival
+Class: Rivale
 Pic: Brendan
 Gender: Male
 Music: Male
@@ -10861,7 +10861,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_BRENDAN_RUSTBORO_MUDKIP ===
 Name: Brix
-Class: Rival
+Class: Rivale
 Pic: Brendan
 Gender: Male
 Music: Male
@@ -10878,7 +10878,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_PAXTON ===
 Name: Paul
-Class: Expert
+Class: Expertee
 Pic: Expert M
 Gender: Male
 Music: Intense
@@ -10895,7 +10895,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ISABELLA ===
 Name: Judith
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
@@ -10925,7 +10925,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TABITHA_MT_CHIMNEY ===
 Name: Kalle
-Class: Magma Admin
+Class: Magma Boss
 Pic: Magma Admin
 Gender: Male
 Music: Magma
@@ -10950,7 +10950,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_JONATHAN ===
 Name: Jonathan
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -10968,7 +10968,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_RUSTBORO_TORCHIC ===
 Name: Brix
-Class: Rival
+Class: Rivale
 Pic: Brendan
 Gender: Male
 Music: Male
@@ -10985,7 +10985,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MAY_RUSTBORO_MUDKIP ===
 Name: Maike
-Class: Rival
+Class: Rivale
 Pic: May
 Gender: Female
 Music: Female
@@ -11046,7 +11046,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_TIANA ===
 Name: Karin
-Class: Lass
+Class: Göre
 Pic: Lass
 Gender: Female
 Music: Female
@@ -11063,7 +11063,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HALEY_1 ===
 Name: Elisa
-Class: Lass
+Class: Göre
 Pic: Lass
 Gender: Female
 Music: Female
@@ -11080,7 +11080,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JANICE ===
 Name: Ricarda
-Class: Lass
+Class: Göre
 Pic: Lass
 Gender: Female
 Music: Female
@@ -11093,7 +11093,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_VIVI ===
 Name: Sieglinde
-Class: Winstrate
+Class: Sihgers
 Pic: Lass
 Gender: Female
 Music: Female
@@ -11114,7 +11114,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_HALEY_2 ===
 Name: Elisa
-Class: Lass
+Class: Göre
 Pic: Lass
 Gender: Female
 Music: Female
@@ -11131,7 +11131,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_HALEY_3 ===
 Name: Elisa
-Class: Lass
+Class: Göre
 Pic: Lass
 Gender: Female
 Music: Female
@@ -11148,7 +11148,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_HALEY_4 ===
 Name: Elisa
-Class: Lass
+Class: Göre
 Pic: Lass
 Gender: Female
 Music: Female
@@ -11165,7 +11165,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_HALEY_5 ===
 Name: Elisa
-Class: Lass
+Class: Göre
 Pic: Lass
 Gender: Female
 Music: Female
@@ -11186,7 +11186,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_SALLY ===
 Name: Frederike
-Class: Lass
+Class: Göre
 Pic: Lass
 Gender: Female
 Music: Female
@@ -11199,7 +11199,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROBIN ===
 Name: Robin
-Class: Lass
+Class: Göre
 Pic: Lass
 Gender: Female
 Music: Female
@@ -11220,7 +11220,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANDREA ===
 Name: Frieda
-Class: Lass
+Class: Göre
 Pic: Lass
 Gender: Female
 Music: Female
@@ -11233,7 +11233,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CRISSY ===
 Name: Adelheid
-Class: Lass
+Class: Göre
 Pic: Lass
 Gender: Female
 Music: Female
@@ -11250,7 +11250,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_RICK ===
 Name: Baldur
-Class: Bug Catcher
+Class: Käfersammler
 Pic: Bug Catcher
 Gender: Male
 Music: Male
@@ -11267,7 +11267,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LYLE ===
 Name: Detwin
-Class: Bug Catcher
+Class: Käfersammler
 Pic: Bug Catcher
 Gender: Male
 Music: Male
@@ -11292,7 +11292,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOSE ===
 Name: Eros
-Class: Bug Catcher
+Class: Käfersammler
 Pic: Bug Catcher
 Gender: Male
 Music: Male
@@ -11309,7 +11309,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_DOUG ===
 Name: Eusebius
-Class: Bug Catcher
+Class: Käfersammler
 Pic: Bug Catcher
 Gender: Male
 Music: Male
@@ -11326,7 +11326,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GREG ===
 Name: Gangolf
-Class: Bug Catcher
+Class: Käfersammler
 Pic: Bug Catcher
 Gender: Male
 Music: Male
@@ -11343,7 +11343,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KENT ===
 Name: Gerit
-Class: Bug Catcher
+Class: Käfersammler
 Pic: Bug Catcher
 Gender: Male
 Music: Male
@@ -11356,7 +11356,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JAMES_1 ===
 Name: Gernot
-Class: Bug Catcher
+Class: Käfersammler
 Pic: Bug Catcher
 Gender: Male
 Music: Male
@@ -11373,7 +11373,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JAMES_2 ===
 Name: Gernot
-Class: Bug Catcher
+Class: Käfersammler
 Pic: Bug Catcher
 Gender: Male
 Music: Male
@@ -11386,7 +11386,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_JAMES_3 ===
 Name: Gernot
-Class: Bug Catcher
+Class: Käfersammler
 Pic: Bug Catcher
 Gender: Male
 Music: Male
@@ -11403,7 +11403,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_JAMES_4 ===
 Name: Gernot
-Class: Bug Catcher
+Class: Käfersammler
 Pic: Bug Catcher
 Gender: Male
 Music: Male
@@ -11424,7 +11424,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_JAMES_5 ===
 Name: Gernot
-Class: Bug Catcher
+Class: Käfersammler
 Pic: Bug Catcher
 Gender: Male
 Music: Male
@@ -11449,7 +11449,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_BRICE ===
 Name: Gisbert
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -11466,7 +11466,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TRENT_1 ===
 Name: Heimke
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -11487,7 +11487,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LENNY ===
 Name: Janno
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -11504,7 +11504,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LUCAS_1 ===
 Name: Klodwig
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -11521,7 +11521,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALAN ===
 Name: Lanzelot
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -11542,7 +11542,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CLARK ===
 Name: Luzius
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -11555,7 +11555,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ERIC ===
 Name: Maurizio
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -11572,7 +11572,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LUCAS_2 ===
 Name: Klodwig
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -11587,7 +11587,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MIKE_1 ===
 Name: Melvin
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -11608,7 +11608,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MIKE_2 ===
 Name: Melvin
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -11629,7 +11629,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TRENT_2 ===
 Name: Heimke
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -11654,7 +11654,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_TRENT_3 ===
 Name: Heimke
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -11679,7 +11679,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_TRENT_4 ===
 Name: Heimke
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -11704,7 +11704,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_TRENT_5 ===
 Name: Heimke
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -11729,7 +11729,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_DEZ_AND_LUKE ===
 Name: Ina & leif
-Class: Young Couple
+Class: Junges Glück
 Pic: Young Couple
 Gender: Male
 Music: Girl
@@ -11746,7 +11746,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LEA_AND_JED ===
 Name: Lena&uwe
-Class: Young Couple
+Class: Junges Glück
 Pic: Young Couple
 Gender: Male
 Music: Girl
@@ -11763,7 +11763,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KIRA_AND_DAN_1 ===
 Name: Jule&max
-Class: Young Couple
+Class: Junges Glück
 Pic: Young Couple
 Gender: Male
 Music: Girl
@@ -11780,7 +11780,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KIRA_AND_DAN_2 ===
 Name: Jule&max
-Class: Young Couple
+Class: Junges Glück
 Pic: Young Couple
 Gender: Male
 Music: Girl
@@ -11797,7 +11797,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_KIRA_AND_DAN_3 ===
 Name: Jule&max
-Class: Young Couple
+Class: Junges Glück
 Pic: Young Couple
 Gender: Male
 Music: Girl
@@ -11814,7 +11814,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_KIRA_AND_DAN_4 ===
 Name: Jule&max
-Class: Young Couple
+Class: Junges Glück
 Pic: Young Couple
 Gender: Male
 Music: Girl
@@ -11831,7 +11831,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_KIRA_AND_DAN_5 ===
 Name: Jule&max
-Class: Young Couple
+Class: Junges Glück
 Pic: Young Couple
 Gender: Male
 Music: Girl
@@ -11848,7 +11848,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_JOHANNA ===
 Name: Cordula
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -11861,7 +11861,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GERALD ===
 Name: Gerald
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -11879,7 +11879,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_VIVIAN ===
 Name: Bärbel
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -11904,7 +11904,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_DANIELLE ===
 Name: Dunja
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -11921,7 +11921,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_HIDEO ===
 Name: Saul
-Class: Ninja Boy
+Class: Ninjajunge
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
@@ -11946,7 +11946,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KEIGO ===
 Name: Nelson
-Class: Ninja Boy
+Class: Ninjajunge
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
@@ -11971,7 +11971,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RILEY ===
 Name: Cliff
-Class: Ninja Boy
+Class: Ninjajunge
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
@@ -12013,7 +12013,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_ASHLEY ===
 Name: Katrin
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -12034,7 +12034,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_WALLY_MAUVILLE ===
 Name: Heiko
-Class: Rival
+Class: Rivale
 Pic: Wally
 Gender: Male
 Music: Male
@@ -12047,7 +12047,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_WALLY_VR_2 ===
 Name: Heiko
-Class: Rival
+Class: Rivale
 Pic: Wally
 Gender: Male
 Music: Male
@@ -12097,7 +12097,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_WALLY_VR_3 ===
 Name: Heiko
-Class: Rival
+Class: Rivale
 Pic: Wally
 Gender: Male
 Music: Male
@@ -12147,7 +12147,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_WALLY_VR_4 ===
 Name: Heiko
-Class: Rival
+Class: Rivale
 Pic: Wally
 Gender: Male
 Music: Male
@@ -12197,7 +12197,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_WALLY_VR_5 ===
 Name: Heiko
-Class: Rival
+Class: Rivale
 Pic: Wally
 Gender: Male
 Music: Male
@@ -12247,7 +12247,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_BRENDAN_LILYCOVE_MUDKIP ===
 Name: Brix
-Class: Rival
+Class: Rivale
 Pic: Brendan
 Gender: Male
 Music: Male
@@ -12272,7 +12272,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_BRENDAN_LILYCOVE_TREECKO ===
 Name: Brix
-Class: Rival
+Class: Rivale
 Pic: Brendan
 Gender: Male
 Music: Male
@@ -12297,7 +12297,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_BRENDAN_LILYCOVE_TORCHIC ===
 Name: Brix
-Class: Rival
+Class: Rivale
 Pic: Brendan
 Gender: Male
 Music: Male
@@ -12322,7 +12322,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_MAY_LILYCOVE_MUDKIP ===
 Name: Maike
-Class: Rival
+Class: Rivale
 Pic: May
 Gender: Female
 Music: Female
@@ -12347,7 +12347,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_MAY_LILYCOVE_TREECKO ===
 Name: Maike
-Class: Rival
+Class: Rivale
 Pic: May
 Gender: Female
 Music: Female
@@ -12372,7 +12372,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_MAY_LILYCOVE_TORCHIC ===
 Name: Maike
-Class: Rival
+Class: Rivale
 Pic: May
 Gender: Female
 Music: Female
@@ -12397,7 +12397,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_JONAH ===
 Name: Olof
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -12418,7 +12418,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HENRY ===
 Name: Pius
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -12435,7 +12435,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROGER ===
 Name: Amatus
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -12456,7 +12456,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALEXA ===
 Name: Annabel
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -12474,7 +12474,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_RUBEN ===
 Name: Trutz
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -12492,7 +12492,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_KOJI_1 ===
 Name: Remigius
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -12505,7 +12505,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WAYNE ===
 Name: Alvaro
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -12526,7 +12526,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AIDAN ===
 Name: Dario
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -12543,7 +12543,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_REED ===
 Name: Andolin
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -12560,7 +12560,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TISHA ===
 Name: Imke
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -12573,7 +12573,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TORI_AND_TIA ===
 Name: Li & flo
-Class: Twins
+Class: Zwillinge
 Pic: Twins
 Gender: Male
 Music: Twins
@@ -12590,7 +12590,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KIM_AND_IRIS ===
 Name: Zoe & iris
-Class: Sr And Jr
+Class: Sen. And Jun.
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
@@ -12615,7 +12615,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TYRA_AND_IVY ===
 Name: Tyra & ivy
-Class: Sr And Jr
+Class: Sen. And Jun.
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
@@ -12640,7 +12640,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MEL_AND_PAUL ===
 Name: Geli & ole
-Class: Young Couple
+Class: Junges Glück
 Pic: Young Couple
 Gender: Male
 Music: Girl
@@ -12665,7 +12665,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOHN_AND_JAY_1 ===
 Name: Urs & evi
-Class: Old Couple
+Class: Altes Paar
 Pic: Old Couple
 Gender: Male
 Music: Intense
@@ -12690,7 +12690,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_JOHN_AND_JAY_2 ===
 Name: Urs & evi
-Class: Old Couple
+Class: Altes Paar
 Pic: Old Couple
 Gender: Male
 Music: Intense
@@ -12715,7 +12715,7 @@ IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
 
 === TRAINER_JOHN_AND_JAY_3 ===
 Name: Urs & evi
-Class: Old Couple
+Class: Altes Paar
 Pic: Old Couple
 Gender: Male
 Music: Intense
@@ -12740,7 +12740,7 @@ IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 
 === TRAINER_JOHN_AND_JAY_4 ===
 Name: Urs & evi
-Class: Old Couple
+Class: Altes Paar
 Pic: Old Couple
 Gender: Male
 Music: Intense
@@ -12765,7 +12765,7 @@ IVs: 27 HP / 27 Atk / 27 Def / 27 SpA / 27 SpD / 27 Spe
 
 === TRAINER_JOHN_AND_JAY_5 ===
 Name: Urs & evi
-Class: Old Couple
+Class: Altes Paar
 Pic: Old Couple
 Gender: Male
 Music: Intense
@@ -12790,7 +12790,7 @@ IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 
 === TRAINER_RELI_AND_IAN ===
 Name: Tobi & una
-Class: Sis And Bro
+Class: Geschwister
 Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
@@ -12807,7 +12807,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LILA_AND_ROY_1 ===
 Name: Karl&maria
-Class: Sis And Bro
+Class: Geschwister
 Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
@@ -12824,7 +12824,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LILA_AND_ROY_2 ===
 Name: Karl&maria
-Class: Sis And Bro
+Class: Geschwister
 Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
@@ -12841,7 +12841,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LILA_AND_ROY_3 ===
 Name: Karl&maria
-Class: Sis And Bro
+Class: Geschwister
 Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
@@ -12858,7 +12858,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LILA_AND_ROY_4 ===
 Name: Karl&maria
-Class: Sis And Bro
+Class: Geschwister
 Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
@@ -12875,7 +12875,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LILA_AND_ROY_5 ===
 Name: Karl&maria
-Class: Sis And Bro
+Class: Geschwister
 Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
@@ -12892,7 +12892,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LISA_AND_RAY ===
 Name: Erko & bea
-Class: Sis And Bro
+Class: Geschwister
 Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
@@ -12909,7 +12909,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHRIS ===
 Name: Chris
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -12934,7 +12934,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAWSON ===
 Name: Klaus
-Class: Rich Boy
+Class: Schnösel
 Pic: Rich Boy
 Gender: Male
 Music: Rich
@@ -12969,7 +12969,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DARIAN ===
 Name: Marco
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -12982,7 +12982,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HAILEY ===
 Name: Karla
-Class: Tuber F
+Class: Planscher
 Pic: Tuber F
 Gender: Female
 Music: Girl
@@ -12995,7 +12995,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHANDLER ===
 Name: Karlo
-Class: Tuber M
+Class: Planscher
 Pic: Tuber M
 Gender: Male
 Music: Girl
@@ -13029,7 +13029,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOSEPH ===
 Name: Karel
-Class: Guitarist
+Class: Gitarrist
 Pic: Guitarist
 Gender: Male
 Music: Intense
@@ -13046,7 +13046,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALYSSA ===
 Name: Kirsten
-Class: Triathlete
+Class: Triathlet
 Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
@@ -13059,7 +13059,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MARCOS ===
 Name: Kilian
-Class: Guitarist
+Class: Gitarrist
 Pic: Guitarist
 Gender: Male
 Music: Intense
@@ -13072,7 +13072,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_RHETT ===
 Name: Knut
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -13111,7 +13111,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BIANCA ===
 Name: Kordula
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -13124,7 +13124,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HAYDEN ===
 Name: Kornelius
-Class: Kindler
+Class: Hitzkopf
 Pic: Kindler
 Gender: Male
 Music: Hiker
@@ -13137,7 +13137,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SOPHIE ===
 Name: Krista
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -13154,7 +13154,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_COBY ===
 Name: Laurenz
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -13205,7 +13205,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANGELINA ===
 Name: Larissa
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -13222,7 +13222,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KAI ===
 Name: Louis
-Class: Fisherman
+Class: Angler
 Pic: Fisherman
 Gender: Male
 Music: Hiker
@@ -13235,7 +13235,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHARLOTTE ===
 Name: Luise
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -13248,7 +13248,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEANDRE ===
 Name: Lutmar
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -13485,7 +13485,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TABITHA_MAGMA_HIDEOUT ===
 Name: Kalle
-Class: Magma Admin
+Class: Magma Boss
 Pic: Magma Admin
 Gender: Male
 Music: Magma
@@ -13510,7 +13510,7 @@ IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
 === TRAINER_DARCY ===
 Name: Dorothea
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -13549,7 +13549,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_PETE ===
 Name: Magnus
-Class: Swimmer M
+Class: Schwimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
@@ -13562,7 +13562,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ISABELLE ===
 Name: Magda
-Class: Swimmer F
+Class: Schwimmerin
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
@@ -13575,7 +13575,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANDRES_1 ===
 Name: Maik
-Class: Ruin Maniac
+Class: Ruinen Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
@@ -13592,7 +13592,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_JOSUE ===
 Name: Mark
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -13609,7 +13609,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_CAMRON ===
 Name: Volker
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
@@ -13622,7 +13622,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CORY_1 ===
 Name: Mario
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -13643,7 +13643,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CAROLINA ===
 Name: Manja
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -13665,7 +13665,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_ELIJAH ===
 Name: Marinus
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -13682,7 +13682,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CELIA ===
 Name: Jenny
-Class: Picnicker
+Class: Picknicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
@@ -13699,7 +13699,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRYAN ===
 Name: Martin
-Class: Ruin Maniac
+Class: Ruinen Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
@@ -13733,7 +13733,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRYANT ===
 Name: Moritz
-Class: Kindler
+Class: Hitzkopf
 Pic: Kindler
 Gender: Male
 Music: Hiker
@@ -13767,7 +13767,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KYRA ===
 Name: Michaela
-Class: Triathlete
+Class: Triathlet
 Pic: Running Triathlete F
 Gender: Female
 Music: Female
@@ -13784,7 +13784,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JAIDEN ===
 Name: Merlin
-Class: Ninja Boy
+Class: Ninjajunge
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
@@ -13801,7 +13801,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALIX ===
 Name: Monja
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -13818,7 +13818,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HELENE ===
 Name: Nadja
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -13835,7 +13835,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MARLENE ===
 Name: Natalia
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -13852,7 +13852,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEVAN ===
 Name: Nicolas
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -13869,7 +13869,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOHNSON ===
 Name: Mark
-Class: Youngster
+Class: Teenager
 Pic: Youngster
 Gender: Male
 Music: Male
@@ -13886,7 +13886,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MELINA ===
 Name: Olga
-Class: Triathlete
+Class: Triathlet
 Pic: Running Triathlete F
 Gender: Female
 Music: Female
@@ -13899,7 +13899,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRANDI ===
 Name: Pamela
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -13912,7 +13912,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AISHA ===
 Name: Paula
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -13925,7 +13925,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAKAYLA ===
 Name: Petrissa
-Class: Expert
+Class: Expertee
 Pic: Expert F
 Gender: Female
 Music: Intense
@@ -13943,7 +13943,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FABIAN ===
 Name: Pascal
-Class: Guitarist
+Class: Gitarrist
 Pic: Guitarist
 Gender: Male
 Music: Intense
@@ -13956,7 +13956,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAYTON ===
 Name: Patrick
-Class: Kindler
+Class: Hitzkopf
 Pic: Kindler
 Gender: Male
 Music: Hiker
@@ -13973,7 +13973,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RACHEL ===
 Name: Pernilla
-Class: Parasol Lady
+Class: Schirmdame
 Pic: Parasol Lady
 Gender: Female
 Music: Female
@@ -13986,7 +13986,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LEONEL ===
 Name: Peer
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
@@ -14003,7 +14003,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CALLIE ===
 Name: Petronia
-Class: Battle Girl
+Class: Kämpferin
 Pic: Battle Girl
 Gender: Female
 Music: Intense
@@ -14020,7 +14020,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CALE ===
 Name: Balduin
-Class: Bug Maniac
+Class: Käfer Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
@@ -14037,7 +14037,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MYLES ===
 Name: Quentin
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
@@ -14070,7 +14070,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_PAT ===
 Name: Radmilla
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
@@ -14103,7 +14103,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_CRISTIN_1 ===
 Name: Rebecca
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -14121,7 +14121,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_RUSTBORO_TREECKO ===
 Name: Maike
-Class: Rival
+Class: Rivale
 Pic: May
 Gender: Female
 Music: Female
@@ -14138,7 +14138,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MAY_RUSTBORO_TORCHIC ===
 Name: Maike
-Class: Rival
+Class: Rivale
 Pic: May
 Gender: Female
 Music: Female
@@ -14155,7 +14155,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_ROXANNE_2 ===
 Name: Felizia
-Class: Leader
+Class: Leiter
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
@@ -14197,7 +14197,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ROXANNE_3 ===
 Name: Felizia
-Class: Leader
+Class: Leiter
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
@@ -14247,7 +14247,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ROXANNE_4 ===
 Name: Felizia
-Class: Leader
+Class: Leiter
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
@@ -14297,7 +14297,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ROXANNE_5 ===
 Name: Felizia
-Class: Leader
+Class: Leiter
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
@@ -14355,7 +14355,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BRAWLY_2 ===
 Name: Kamillo
-Class: Leader
+Class: Leiter
 Pic: Leader Brawly
 Gender: Male
 Music: Male
@@ -14397,7 +14397,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BRAWLY_3 ===
 Name: Kamillo
-Class: Leader
+Class: Leiter
 Pic: Leader Brawly
 Gender: Male
 Music: Male
@@ -14439,7 +14439,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BRAWLY_4 ===
 Name: Kamillo
-Class: Leader
+Class: Leiter
 Pic: Leader Brawly
 Gender: Male
 Music: Male
@@ -14489,7 +14489,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BRAWLY_5 ===
 Name: Kamillo
-Class: Leader
+Class: Leiter
 Pic: Leader Brawly
 Gender: Male
 Music: Male
@@ -14547,7 +14547,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_WATTSON_2 ===
 Name: Walter
-Class: Leader
+Class: Leiter
 Pic: Leader Wattson
 Gender: Male
 Music: Male
@@ -14589,7 +14589,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_WATTSON_3 ===
 Name: Walter
-Class: Leader
+Class: Leiter
 Pic: Leader Wattson
 Gender: Male
 Music: Male
@@ -14639,7 +14639,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_WATTSON_4 ===
 Name: Walter
-Class: Leader
+Class: Leiter
 Pic: Leader Wattson
 Gender: Male
 Music: Male
@@ -14689,7 +14689,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_WATTSON_5 ===
 Name: Walter
-Class: Leader
+Class: Leiter
 Pic: Leader Wattson
 Gender: Male
 Music: Male
@@ -14747,7 +14747,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_FLANNERY_2 ===
 Name: Flavia
-Class: Leader
+Class: Leiter
 Pic: Leader Flannery
 Gender: Female
 Music: Female
@@ -14789,7 +14789,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_FLANNERY_3 ===
 Name: Flavia
-Class: Leader
+Class: Leiter
 Pic: Leader Flannery
 Gender: Female
 Music: Female
@@ -14839,7 +14839,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_FLANNERY_4 ===
 Name: Flavia
-Class: Leader
+Class: Leiter
 Pic: Leader Flannery
 Gender: Female
 Music: Female
@@ -14897,7 +14897,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_FLANNERY_5 ===
 Name: Flavia
-Class: Leader
+Class: Leiter
 Pic: Leader Flannery
 Gender: Female
 Music: Female
@@ -14955,7 +14955,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_NORMAN_2 ===
 Name: Norman
-Class: Leader
+Class: Leiter
 Pic: Leader Norman
 Gender: Male
 Music: Male
@@ -14997,7 +14997,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_NORMAN_3 ===
 Name: Norman
-Class: Leader
+Class: Leiter
 Pic: Leader Norman
 Gender: Male
 Music: Male
@@ -15047,7 +15047,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_NORMAN_4 ===
 Name: Norman
-Class: Leader
+Class: Leiter
 Pic: Leader Norman
 Gender: Male
 Music: Male
@@ -15097,7 +15097,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_NORMAN_5 ===
 Name: Norman
-Class: Leader
+Class: Leiter
 Pic: Leader Norman
 Gender: Male
 Music: Male
@@ -15155,7 +15155,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_WINONA_2 ===
 Name: Wibke
-Class: Leader
+Class: Leiter
 Pic: Leader Winona
 Gender: Female
 Music: Female
@@ -15205,7 +15205,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_WINONA_3 ===
 Name: Wibke
-Class: Leader
+Class: Leiter
 Pic: Leader Winona
 Gender: Female
 Music: Female
@@ -15263,7 +15263,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_WINONA_4 ===
 Name: Wibke
-Class: Leader
+Class: Leiter
 Pic: Leader Winona
 Gender: Female
 Music: Female
@@ -15321,7 +15321,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_WINONA_5 ===
 Name: Wibke
-Class: Leader
+Class: Leiter
 Pic: Leader Winona
 Gender: Female
 Music: Female
@@ -15379,7 +15379,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_TATE_AND_LIZA_2 ===
 Name: Ben&svenja
-Class: Leader
+Class: Leiter
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
@@ -15429,7 +15429,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_TATE_AND_LIZA_3 ===
 Name: Ben&svenja
-Class: Leader
+Class: Leiter
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
@@ -15487,7 +15487,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_TATE_AND_LIZA_4 ===
 Name: Ben&svenja
-Class: Leader
+Class: Leiter
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
@@ -15545,7 +15545,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_TATE_AND_LIZA_5 ===
 Name: Ben&svenja
-Class: Leader
+Class: Leiter
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
@@ -15603,7 +15603,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_JUAN_2 ===
 Name: Juan
-Class: Leader
+Class: Leiter
 Pic: Leader Juan
 Gender: Male
 Music: Male
@@ -15653,7 +15653,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_JUAN_3 ===
 Name: Juan
-Class: Leader
+Class: Leiter
 Pic: Leader Juan
 Gender: Male
 Music: Male
@@ -15703,7 +15703,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_JUAN_4 ===
 Name: Juan
-Class: Leader
+Class: Leiter
 Pic: Leader Juan
 Gender: Male
 Music: Male
@@ -15761,7 +15761,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_JUAN_5 ===
 Name: Juan
-Class: Leader
+Class: Leiter
 Pic: Leader Juan
 Gender: Male
 Music: Male
@@ -15819,7 +15819,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ANGELO ===
 Name: Rafael
-Class: Bug Maniac
+Class: Käfer Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
@@ -15842,7 +15842,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_DARIUS ===
 Name: Raimond
-Class: Bird Keeper
+Class: Vogelfänger
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
@@ -15855,7 +15855,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_STEVEN ===
 Name: Troy
-Class: Rival
+Class: Rivale
 Pic: Steven
 Gender: Male
 Music: Male
@@ -15913,7 +15913,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ANABEL ===
 Name: Anabel
-Class: Salon Maiden
+Class: Kampfkoloss
 Pic: Salon Maiden Anabel
 Gender: Female
 Music: Male
@@ -15926,7 +15926,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TUCKER ===
 Name: Tasso
-Class: Dome Ace
+Class: Stadionstar
 Pic: Dome Ace Tucker
 Gender: Male
 Music: Male
@@ -15939,7 +15939,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SPENSER ===
 Name: Serenus
-Class: Palace Maven
+Class: Palastregent
 Pic: Palace Maven Spenser
 Gender: Male
 Music: Male
@@ -15952,7 +15952,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRETA ===
 Name: Greta
-Class: Arena Tycoon
+Class: Ringmeister
 Pic: Arena Tycoon Greta
 Gender: Female
 Music: Male
@@ -15965,7 +15965,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NOLAND ===
 Name: Kevin
-Class: Factory Head
+Class: Fabrikleiter
 Pic: Factory Head Noland
 Gender: Male
 Music: Male
@@ -15978,7 +15978,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LUCY ===
 Name: Lotte
-Class: Pike Queen
+Class: Pfipitistin
 Pic: Pike Queen Lucy
 Gender: Female
 Music: Male
@@ -15991,7 +15991,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRANDON ===
 Name: Brian
-Class: Pyramid King
+Class: Pyra König
 Pic: Pyramid King Brandon
 Gender: Male
 Music: Male
@@ -16004,7 +16004,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANDRES_2 ===
 Name: Maik
-Class: Ruin Maniac
+Class: Ruinen Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
@@ -16021,7 +16021,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ANDRES_3 ===
 Name: Maik
-Class: Ruin Maniac
+Class: Ruinen Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
@@ -16042,7 +16042,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ANDRES_4 ===
 Name: Maik
-Class: Ruin Maniac
+Class: Ruinen Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
@@ -16063,7 +16063,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ANDRES_5 ===
 Name: Maik
-Class: Ruin Maniac
+Class: Ruinen Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
@@ -16084,7 +16084,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_CORY_2 ===
 Name: Mario
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -16105,7 +16105,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_CORY_3 ===
 Name: Mario
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -16126,7 +16126,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_CORY_4 ===
 Name: Mario
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -16147,7 +16147,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_CORY_5 ===
 Name: Mario
-Class: Sailor
+Class: Matrose
 Pic: Sailor
 Gender: Male
 Music: Male
@@ -16168,7 +16168,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_PABLO_2 ===
 Name: Pablo
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
@@ -16185,7 +16185,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_PABLO_3 ===
 Name: Pablo
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
@@ -16206,7 +16206,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_PABLO_4 ===
 Name: Pablo
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
@@ -16227,7 +16227,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_PABLO_5 ===
 Name: Pablo
-Class: Triathlete
+Class: Triathlet
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
@@ -16248,7 +16248,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_KOJI_2 ===
 Name: Remigius
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -16265,7 +16265,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_KOJI_3 ===
 Name: Remigius
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -16286,7 +16286,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_KOJI_4 ===
 Name: Remigius
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -16307,7 +16307,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_KOJI_5 ===
 Name: Remigius
-Class: Black Belt
+Class: Schwarzgurt
 Pic: Black Belt
 Gender: Male
 Music: Intense
@@ -16328,7 +16328,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_CRISTIN_2 ===
 Name: Rebecca
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -16346,7 +16346,7 @@ IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_CRISTIN_3 ===
 Name: Rebecca
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -16368,7 +16368,7 @@ IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_CRISTIN_4 ===
 Name: Rebecca
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -16390,7 +16390,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CRISTIN_5 ===
 Name: Rebecca
-Class: Cooltrainer
+Class: Ass-Trainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
@@ -16412,7 +16412,7 @@ IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
 
 === TRAINER_FERNANDO_2 ===
 Name: Kerry
-Class: Guitarist
+Class: Gitarrist
 Pic: Guitarist
 Gender: Male
 Music: Intense
@@ -16433,7 +16433,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_FERNANDO_3 ===
 Name: Kerry
-Class: Guitarist
+Class: Gitarrist
 Pic: Guitarist
 Gender: Male
 Music: Intense
@@ -16454,7 +16454,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_FERNANDO_4 ===
 Name: Kerry
-Class: Guitarist
+Class: Gitarrist
 Pic: Guitarist
 Gender: Male
 Music: Intense
@@ -16475,7 +16475,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_FERNANDO_5 ===
 Name: Kerry
-Class: Guitarist
+Class: Gitarrist
 Pic: Guitarist
 Gender: Male
 Music: Intense
@@ -16496,7 +16496,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_SAWYER_2 ===
 Name: Alex
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -16513,7 +16513,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_SAWYER_3 ===
 Name: Alex
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -16534,7 +16534,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_SAWYER_4 ===
 Name: Alex
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -16555,7 +16555,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_SAWYER_5 ===
 Name: Alex
-Class: Hiker
+Class: Bergsteiger
 Pic: Hiker
 Gender: Male
 Music: Hiker
@@ -16576,7 +16576,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_GABRIELLE_2 ===
 Name: Agnes
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
@@ -16609,7 +16609,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_GABRIELLE_3 ===
 Name: Agnes
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
@@ -16642,7 +16642,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_GABRIELLE_4 ===
 Name: Agnes
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
@@ -16675,7 +16675,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_GABRIELLE_5 ===
 Name: Agnes
-Class: Pkmn Breeder
+Class: Züchter
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
@@ -16708,7 +16708,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_THALIA_2 ===
 Name: Halle
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -16725,7 +16725,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_THALIA_3 ===
 Name: Halle
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -16746,7 +16746,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_THALIA_4 ===
 Name: Halle
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -16767,7 +16767,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_THALIA_5 ===
 Name: Halle
-Class: Beauty
+Class: Schönheit
 Pic: Beauty
 Gender: Female
 Music: Female
@@ -16788,7 +16788,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_MARIELA ===
 Name: Marina
-Class: Psychic
+Class: Psycho
 Pic: Psychic F
 Gender: Female
 Music: Intense
@@ -16800,7 +16800,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALVARO ===
 Name: Reinold
-Class: Psychic
+Class: Psycho
 Pic: Psychic M
 Gender: Male
 Music: Intense
@@ -16828,7 +16828,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RED ===
 Name: Rot
-Class: Rival
+Class: Rivale
 Pic: Red
 Gender: Male
 Music: Male
@@ -16840,7 +16840,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LEAF ===
 Name: Blatt
-Class: Rival
+Class: Rivale
 Pic: Leaf
 Gender: Female
 Music: Male
@@ -16864,7 +16864,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAY_PLACEHOLDER ===
 Name: Maike
-Class: RS Protag
+Class: PkMn Trainer
 Pic: RS May
 Gender: Female
 Music: Male
